@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
 {
-printf("lionhahaha");
+printf("goodbye");
+printf("lionha");
 }
